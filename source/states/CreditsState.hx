@@ -39,7 +39,7 @@ class CreditsState extends MusicBeatState
 
 		var defaultList:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
 			['Port Mod Mobile'],
-			['NuzaiTzy',               'Nuzai',             'Porter Mod Mobile',                       'https://www.instagram.com/nzrk_ndhf/',       		'FA3208']
+			['NuzaiTzy',               'Nuzai',             'Porter of Mod Mobile',                       'https://www.instagram.com/nzrk_ndhf/',       		'FA3208']
 			[''],
 			['Psych Porting Team'],
 			['mcagabe19',               'lily',             'Head Porter of Psych Engine Mobile',                       'https://youtube.com/@mcagabe19',       		'FFE7C0'],
